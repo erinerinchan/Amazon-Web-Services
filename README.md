@@ -23,7 +23,6 @@ Key in S3 in the search bar, navigate into S3 (not S3 Glacier) and click `Bucket
 Inside the `Buckets` panel, click on `Create bucket`. 
 
 ![Bucket-01](https://user-images.githubusercontent.com/35587864/177148475-bc9b0052-5e3f-4abc-8305-11bb31d7be71.png)
-
 Key in a `Bucket name` of your choice separated by `-`, select your region - or select one closest to your region if your region is not available on the list, and click `Choose bucket`. 
 
 ![general-configuration-01](https://user-images.githubusercontent.com/35587864/177148710-a47b1c51-2e72-4619-9eb7-1d5afef994f7.png)
